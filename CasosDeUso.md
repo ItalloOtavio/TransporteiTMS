@@ -10,3 +10,11 @@
   - Placa já existente → exibir erro
 - Critério de aceite:
   - Registro criado e visível na lista
+ 
+## Caso de Uso: Cadastrar Motorista
+
+## Caso de Uso: Cadastrar Cliente
+
+## Caso de Uso: Gerar Carga
+
+## Caso de Uso: Acompanhar Entrega
