@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Transportei.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e57b71864490e7c5dcefed05b001e9a6e117ee9c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Transportei.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Transportei.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
