@@ -1,0 +1,27 @@
+﻿@model List<Transportei.Web.Models.Veiculo>
+
+<h2>Lista de Veículos</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Placa</th>
+            <th>Modelo</th>
+            <th>Capacidade (kg)</th>
+            <th>Ano</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var v in Model)
+        {
+            <tr>
+                <td>@v.Id</td>
+                <td>@v.Placa</td>
+                <td>@v.Modelo</td>
+                <td>@v.Cor</td>
+                <td>@v.Ano</td>
+            </tr>
+        }
+    </tbody>
+</table>
